@@ -1,0 +1,4 @@
+tqdm==4.40.0
+click==7.0
+PGet==0.5.0
+git+git://github.com/ynop/spoteno.git@7700d53#egg=spoteno
